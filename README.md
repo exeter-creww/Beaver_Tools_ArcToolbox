@@ -13,7 +13,7 @@ A vector dataset of a river network that describes the reach scale (~130m) capac
 provided as 0-30 dams/km.
 
 ## Arc Tool Box *(BeaverMod_ToolBox.pyt)*
-This repository contains an Arc tool ([*BeaverMod_ToolBox.pyt*](GB_Beaver_ToolBox/BeaverMod_ToolBox.pyt)) box which 
+This repository contains an Arc tool box ([*BeaverMod_ToolBox.pyt*](GB_Beaver_ToolBox/BeaverMod_ToolBox.pyt)) which 
 contains 3 tools:
 
 ##### 1) Beaver Dam Capacity Toolbox ([*BDC_Interp_Script.py*](GB_Beaver_ToolBox/BDC_Interp_Script.py))
@@ -31,7 +31,7 @@ Slightly slower than Beaver Habitat Toolbox.
 
 ## Tool Box Demo...
 
-* Download This Repo 
+* Download This Repo: 
 ([*https://github.com/exeter-creww/Beaver_Tools_ArcToolbox*](https://github.com/exeter-creww/Beaver_Tools_ArcToolbox)):
 
 ![download_repo](demo_files/download_repo.PNG)
