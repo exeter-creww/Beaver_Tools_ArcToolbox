@@ -51,6 +51,7 @@ required inputs and click Run:
     statistics for each feature/AOI.
 
 ![Run BDC Tool](demo_files/BDC_Tool.PNG)
-    
 
-<p style="text-align:center;"><img src=demo_files/BDC_Tool.PNG width="500" height = "200">
+<p align="center">
+<img src=demo_files/BDC_Tool.PNG width="500" height = "200">
+</p>
