@@ -36,4 +36,21 @@ Slightly slower than Beaver Habitat Toolbox.
 
 ![download_repo](demo_files/download_repo.PNG)
 
-<img src=".demo_files/download_repo.PNG" height="200" width="100"/>
+* Unzip files in your desired install location.
+
+* Open Arc Pro or Arc GIS 10+, Navigate to Arc Catalogue, Open Toolbox.
+
+![Open ToolBox](demo_files/OpenTBinCat.PNG)
+
+* To run the **Beaver Dam Capacity Toolbox**, Select the tool from the Catalogue menu. Enter the 3 
+required inputs and click Run:
+    * **Input BDC Networks(s)** - select the file path(s) for the BDC networks of interest.
+    * **Input Search Zones** - select a path to a user-created polygon feature which defines the areas of interest. The 
+    polygon file (.shp for example) may contain multiple features which will all be evaluated individually.
+    * **Outout Summary Polygon** The desired save path for the resulting Polgon which contains the BDC summary 
+    statistics for each feature/AOI.
+
+![Run BDC Tool](demo_files/BDC_Tool.PNG)
+    
+    
+
