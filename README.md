@@ -3,7 +3,7 @@ A Repository Containing an Arc Toolbox (>Arc10 and ArcPro compatible) to help in
 Habitat Index Model and Beaver Dam Capacity Model (Graham, et al. (in review) and Macfarlane, et al. (2015). These tools were developed for the 
 Environment Agency and Natural England as part of a national beaver habitat and regional dam capacity modelling project.
 
-#### Model Descriptions
+### Model Descriptions
 ##### The Beaver Habitat index: 
 A raster dataset which provides an integer value between 0-5, at a resolution of 5m, which describes the suitability of
 the vegetaion/landuse type for beaver forage.
@@ -41,7 +41,7 @@ Slightly slower than Beaver Habitat Toolbox.
 * Open Arc Pro or Arc GIS 10+, Navigate to Arc Catalogue, Open Toolbox.
 
 <p align="center">
-<img src=demo_files/OpenTBinCat.PNG width="400" height = "500">
+<img src=demo_files/OpenTBinCat.PNG width="550" height = "450">
 </p>
 
 * To run the **Beaver Dam Capacity Toolbox**, Select the tool from the Catalogue menu. Enter the 3 
