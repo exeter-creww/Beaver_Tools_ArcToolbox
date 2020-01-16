@@ -100,3 +100,10 @@ stats shown here as (**Name** - meaning):
     * (**BHI_MEAN** - Mean BHI value), (**BHI_MIN** - Minimum BHI value), (**BHI_MAX** - Maximum BHI value), 
     (**BHI_STD** - the standard deviation of BHI), (**BHI_PERC_<>** - The % of land within a BHI category; 0-5), 
     (**BHI_AREA_<>** - The Area (km<sup>2</sup>) of land within a BHI category; 0-5))
+    
+
+* Finally, Visualise your search areas with the desired stats to produce a map like this:
+
+<p align="center">
+<img src=demo_files/BHI_SA_Tool.PNG width="675" height = "300">
+</p>
