@@ -40,7 +40,9 @@ Slightly slower than Beaver Habitat Toolbox.
 
 * Open Arc Pro or Arc GIS 10+, Navigate to Arc Catalogue, Open Toolbox.
 
-![Open ToolBox](demo_files/OpenTBinCat.PNG)
+<p align="center">
+<img src=demo_files/OpenTBinCat.PNG width="400" height = "500">
+</p>
 
 * To run the **Beaver Dam Capacity Toolbox**, Select the tool from the Catalogue menu. Enter the 3 
 required inputs and click Run:
@@ -49,8 +51,6 @@ required inputs and click Run:
     polygon file (.shp for example) may contain multiple features which will all be evaluated individually.
     * **Outout Summary Polygon** The desired save path for the resulting Polgon which contains the BDC summary 
     statistics for each feature/AOI.
-
-![Run BDC Tool](demo_files/BDC_Tool.PNG)
 
 <p align="center">
 <img src=demo_files/BDC_Tool.PNG width="650" height = "300">
