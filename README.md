@@ -104,4 +104,6 @@ stats shown here as (**Name** - meaning):
 
 * Finally, Visualise your search areas with the desired stats to produce a map like this:
 
-![download_repo](demo_files/BHI_Tool_Map.PNG)
+<p align="center">
+<img src=demo_files/BHI_Tool_Map.PNG>
+</p>
