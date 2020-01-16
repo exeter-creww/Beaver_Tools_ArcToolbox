@@ -98,6 +98,5 @@ Beaver Habitat Toolbox - this tool does the pre-processing for the user but requ
 stats shown here as (**Name** - meaning): 
 
     * (**BHI_MEAN** - Mean BHI value), (**BHI_MIN** - Minimum BHI value), (**BHI_MAX** - Maximum BHI value), 
-    (**BHI_STD** - the standard deviation of BHI), (**BHI_PERC_<>** - The % of land within a BHI 
-    category; 0-5), (**BHI_AREA_<>** - The Area (km<sup>2</sup>) of land within a BHI 
-    category; 0-5))
+    (**BHI_STD** - the standard deviation of BHI), (**BHI_PERC_<>** - The % of land within a BHI category; 0-5), 
+    (**BHI_AREA_<>** - The Area (km<sup>2</sup>) of land within a BHI category; 0-5))
