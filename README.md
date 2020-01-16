@@ -44,6 +44,8 @@ Slightly slower than Beaver Habitat Toolbox.
 <img src=demo_files/OpenTBinCat.PNG width="550" height = "450">
 </p>
 
+&nbsp;
+
 * To run the **Beaver Dam Capacity Toolbox**, Select the tool from the Catalogue menu. Enter the 3 
 required inputs and click Run:
     * **Input BDC Networks(s)** - select the file path(s) for the BDC networks of interest.
@@ -56,12 +58,15 @@ required inputs and click Run:
 <img src=demo_files/BDC_Tool.PNG width="675" height = "300">
 </p>
 
-* The **Beaver Dam Capacity Toolbox** summary statistics include the following stats shown here as (**Name** - meaning): 
-(**BDC_MEAN** - Mean BDC value), (**BDC_W_AVG** - the average BDC value weighted by reach length), (**BDC_TOT** - The total 
-dam capacity), (**BDC_MIN** - Minimum BDC value), (**BDC_MAX** - Maximum BDC value), (**BDC_STD** - the standard deviation of 
-BDC), (**BDC_W_STD** - standard deviation of BDC weighted by reach length), (**BDC_P_<>** - The % of channel within a BDC 
-category; either None, Rare, Occasional, Frequent or Pervasive), (**BDC_km_<>** - The length (km) of channel within a BDC 
-category; either None, Rare, Occasional, Frequent or Pervasive), (**TOT_km** - The total channel length (km))
+* The **Beaver Dam Capacity Toolbox** summary statistics include the following stats shown here as (**Name** - meaning):
+ 
+    * (**BDC_MEAN** - Mean BDC value), (**BDC_W_AVG** - the average BDC value weighted by reach length), (**BDC_TOT** - The total 
+    dam capacity), (**BDC_MIN** - Minimum BDC value), (**BDC_MAX** - Maximum BDC value), (**BDC_STD** - the standard deviation of 
+    BDC), (**BDC_W_STD** - standard deviation of BDC weighted by reach length), (**BDC_P_<>** - The % of channel within a BDC 
+    category; either None, Rare, Occasional, Frequent or Pervasive), (**BDC_km_<>** - The length (km) of channel within a BDC 
+    category; either None, Rare, Occasional, Frequent or Pervasive), (**TOT_km** - The total channel length (km))
+
+&nbsp;
 
 * To run the **Beaver Habitat Toolbox**, Select the tool from the Catalogue menu. Enter the 3 
 required inputs and click Run:
@@ -88,3 +93,11 @@ Beaver Habitat Toolbox - this tool does the pre-processing for the user but requ
 <p align="center">
 <img src=demo_files/BHI_SA_Tool.PNG width="675" height = "300">
 </p>
+
+* The **Beaver Habitat Toolbox** and the **Beaver Habitat Stand Alone Toolbox** summary statistics include the following 
+stats shown here as (**Name** - meaning): 
+
+    * (**BHI_MEAN** - Mean BHI value), (**BHI_MIN** - Minimum BHI value), (**BHI_MAX** - Maximum BHI value), 
+    (**BHI_STD** - the standard deviation of BHI), (**BHI_PERC_<>** - The % of land within a BHI 
+    category; 0-5), (**BHI_AREA_<>** - The Area (km<sup>2</sup>) of land within a BHI 
+    category; 0-5))
