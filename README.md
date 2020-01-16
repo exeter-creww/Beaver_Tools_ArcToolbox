@@ -107,3 +107,9 @@ stats shown here as (**Name** - meaning):
 <p align="center">
 <img src=demo_files/BHI_Tool_Map.PNG>
 </p>
+
+&nbsp;
+
+For a pdf version of this README please see: ([*https://github.com/exeter-creww/Beaver_Tools_ArcToolbox/blob/master/
+demo_files/Beaver_ToolBox_README.pdf*](https://github.com/exeter-creww/Beaver_Tools_ArcToolbox/blob/master/demo_files/Beaver_ToolBox_README.pdf))
+
