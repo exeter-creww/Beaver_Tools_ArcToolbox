@@ -54,4 +54,6 @@ required inputs and click Run:
     
     
 
-![test image size](demo_files/BDC_Tool.PNGs=100)
+![test image size](demo_files/BDC_Tool.PNG s=100)
+
+<img src=demo_files/BDC_Tool.PNG width="50" 50">
