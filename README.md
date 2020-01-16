@@ -4,11 +4,11 @@ Habitat Index Model and Beaver Dam Capacity Model (Graham, et al. (in review) an
 Environment Agency and Natural England as part of a national beaver habitat and regional dam capacity modelling project.
 
 ### Model Descriptions
-##### The Beaver Habitat index: 
+##### The Beaver Habitat index (BHI): 
 A raster dataset which provides an integer value between 0-5, at a resolution of 5m, which describes the suitability of
 the vegetaion/landuse type for beaver forage.
 
-##### Beaver Dam Capacity Model
+##### Beaver Dam Capacity Model (BDC)
 A vector dataset of a river network that describes the reach scale (~130m) capacity to support dams. Dam capacity is 
 provided as 0-30 dams/km.
 
@@ -55,6 +55,13 @@ required inputs and click Run:
 <p align="center">
 <img src=demo_files/BDC_Tool.PNG width="675" height = "300">
 </p>
+
+* The **Beaver Dam Capacity Toolbox** summary statistics include the following stats shown here as (**Name** - meaning): 
+(**BDC_MEAN** - Mean BDC value), (**BDC_W_AVG** - the average BDC value weighted by reach length), (**BDC_TOT** - The total 
+dam capacity), (**BDC_MIN** - Minimum BDC value), (**BDC_MAX** - Maximum BDC value), (**BDC_STD** - the standard deviation of 
+BDC), (**BDC_W_STD** - standard deviation of BDC weighted by reach length), (**BDC_P_<>** - The % of channel within a BDC 
+category; either None, Rare, Occasional, Frequent or Pervasive), (**BDC_km_<>** - The length (km) of channel within a BDC 
+category; either None, Rare, Occasional, Frequent or Pervasive), (**TOT_km** - The total channel length (km))
 
 * To run the **Beaver Habitat Toolbox**, Select the tool from the Catalogue menu. Enter the 3 
 required inputs and click Run:
