@@ -54,4 +54,4 @@ required inputs and click Run:
     
     
 
-![test image size](demo_files/BDC_Tool.PNG){:height="50%" width="50%"}
+![test image size](demo_files/BDC_Tool.PNGs=100)
