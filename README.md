@@ -34,6 +34,6 @@ Slightly slower than Beaver Habitat Toolbox.
 * Download This Repo 
 ([*https://github.com/exeter-creww/Beaver_Tools_ArcToolbox*](https://github.com/exeter-creww/Beaver_Tools_ArcToolbox)):
 
-![download_repo](demo_files/download_repo.PNG=100x100)
+![download_repo](demo_files/download_repo.PNG)
 
-<img src=".demo_files/download_repo.PNG" alt="" width="100"/>
+<img src=".demo_files/download_repo.PNG" height="200" width="100"/>
