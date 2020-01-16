@@ -53,4 +53,4 @@ required inputs and click Run:
 ![Run BDC Tool](demo_files/BDC_Tool.PNG)
     
 
-<img src=demo_files/BDC_Tool.PNG width="500" height = "200" align="middle">
+<p style="text-align:center;"><img src=demo_files/BDC_Tool.PNG width="500" height = "200">
