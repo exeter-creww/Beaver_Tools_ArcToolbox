@@ -49,9 +49,35 @@ required inputs and click Run:
     * **Input BDC Networks(s)** - select the file path(s) for the BDC networks of interest.
     * **Input Search Zones** - select a path to a user-created polygon feature which defines the areas of interest. The 
     polygon file (.shp for example) may contain multiple features which will all be evaluated individually.
-    * **Outout Summary Polygon** The desired save path for the resulting Polgon which contains the BDC summary 
+    * **Outout Summary Polygon** The desired save path for the resulting Polygon which contains the BDC summary 
     statistics for each feature/AOI.
 
 <p align="center">
-<img src=demo_files/BDC_Tool.PNG width="650" height = "300">
+<img src=demo_files/BDC_Tool.PNG width="675" height = "300">
+</p>
+
+* To run the **Beaver Habitat Toolbox**, Select the tool from the Catalogue menu. Enter the 3 
+required inputs and click Run:
+    * **Input BHI Raster** - select the file path for a BHI Raster which covers the extent of your chosen search areas.
+    If your search areas cross >1 OSGB 100km grid you will need to mosaic (and clip if desired) multiple BHI tiles.
+    * **Input Search Zones** - select a path to a user-created polygon feature which defines the areas of interest. The 
+    polygon file (.shp for example) may contain multiple features which will all be evaluated individually.
+    * **Outout Summary Polygon** The desired save path for the resulting Polygon which contains the BHI summary 
+    statistics for each feature/AOI.
+
+<p align="center">
+<img src=demo_files/BHI_Tool.PNG width="675" height = "300">
+</p>
+
+* To run the **Beaver Habitat Stand Alone Toolbox**, Select the tool from the Catalogue menu. Enter the 3 
+required inputs and click Run. (We recommend using this tool if you do not wish to preprocess rasters, as required in the
+Beaver Habitat Toolbox - this tool does the pre-processing for the user but requires all BHI tiles to be available.):
+    * **Input BHI Raster Workspace** - select the folder path for all BHI rasters. 
+    * **Input Search Zones** - select a path to a user-created polygon feature which defines the areas of interest. The 
+    polygon file (.shp for example) may contain multiple features which will all be evaluated individually.
+    * **Outout Summary Polygon** The desired save path for the resulting Polygon which contains the BHI summary 
+    statistics for each feature/AOI.
+
+<p align="center">
+<img src=demo_files/BHI_SA_Tool.PNG width="675" height = "300">
 </p>
